@@ -98,7 +98,7 @@
     
 </script>
 
-RTT from your web browser to this AWS server: <span id="ping-alex"></span>ms
+RTT from your web browser to this AWS server (http://globalaccelerator.polemikon.ca): <span id="ping-alex"></span>ms
 <div>
 <?php
     
